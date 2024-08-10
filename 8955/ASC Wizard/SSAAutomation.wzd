@@ -1,0 +1,6 @@
+HostName,ASC
+Description,8955-SSA Automation wizard - Nova
+PlanType,A9
+ScriptFile,SSAAutomation
+UserDataFile,SSAAutomation
+ExternDict,SSAAutomation

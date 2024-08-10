@@ -1,0 +1,2 @@
+PlanList,C,80,,,Path and Filename of external file?,R,,,Y:\ASC\Exported Reports\SSAPlanList.txt
+OutputFolder,C,80,,,Drive and directory for Excel files?,R,,,Y:\ASC\Exported Reports\

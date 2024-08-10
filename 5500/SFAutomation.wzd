@@ -1,0 +1,6 @@
+HostName,ASC
+Description,5500-SF Automation wizard - Nova
+PlanType,A9
+ScriptFile,SFAutomation
+UserDataFile,SFAutomation
+ExternDict,SFAutomation

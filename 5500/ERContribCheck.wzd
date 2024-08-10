@@ -1,0 +1,6 @@
+HostName,ASC
+Description,5500 Contribution Check - Nova
+PlanType,A9
+ScriptFile,ERContribCheck
+UserDataFile,ERContribCheck
+ExternDict,ERContribCheck
